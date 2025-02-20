@@ -1,0 +1,43 @@
+body {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/4/4e/Mavericks_Surf_Contest_2010b.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    text-align: center;
+}
+header h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    margin-top: 20px;
+}
+section {
+    background: rgba(0, 0, 0, 0);
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 10px;
+}
+.surfer {
+    display: inline-block;
+    margin: 10px;
+}
+.surfer img {
+    width: 200px;
+    border-radius: 10px;
+}
+.surfer p {
+    font-weight: bold;
+    margin-top: 5px;
+}
+.bio {
+    font-style: italic;
+    font-size: 14px;
+    margin-top: 5px;
+    color: lightgray;
+}
+.kai-lenny {
+    background-image: url("https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2020/10/10/pytts9yrjq8ops3ubvts/kai-lenny-maui-portrait") no-repeat center center fixed;
+    background-size: cover;
+}
+
