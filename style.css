@@ -32,12 +32,26 @@ section {
 }
 .bio {
     font-style: italic;
-    font-size: 14px;
+    font-size: 30px;
     margin-top: 5px;
-    color: lightgray;
+    color: black;
 }
 .kai-lenny {
     background-image: url("https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2020/10/10/pytts9yrjq8ops3ubvts/kai-lenny-maui-portrait") no-repeat center center fixed;
+    background-size: cover;
+}
+.justine-dupont {
+    background: url('https://upload.wikimedia.org/wikipedia/commons/7/71/Justine_Dupont_Surf.png') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.lucas-chianca {
+    background: url('https://upload.wikimedia.org/wikipedia/commons/7/73/Lucas_Chumbo_during_%22A_Elimina%C3%A7%C3%A3o%22_on_January_30%2C_2020.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.kelly-slater {
+    background: url('https://upload.wikimedia.org/wikipedia/commons/7/7e/Kelly_Slater_2017.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
